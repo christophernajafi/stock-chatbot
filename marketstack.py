@@ -18,7 +18,3 @@ def get_stock_price(stock_symbol):
     return {
         "last_price": json_result["last"]
     }
-
-
-result = get_stock_price('AAPL')
-print(result)
