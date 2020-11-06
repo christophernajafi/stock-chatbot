@@ -1,4 +1,4 @@
-# Stock Chatbot
+# WhatsApp Stock Chatbot
 
 A WhatsApp chatbot that gives the stock price when given a ticker symbol
 
@@ -10,22 +10,17 @@ A WhatsApp chatbot that gives the stock price when given a ticker symbol
 
 ## Technology Stack
 
-- WhatsApp API
-- Twilio API
-- Flask
-- Market Stack API
+- [WhatsApp API](https://www.whatsapp.com/)
+- [Twilio API](https://www.twilio.com/)
+- [Flask](https://github.com/pallets/flask)
+- [marketstack API](https://marketstack.com/)
 
 <!--
 ## Screenshots
--->
 
-<!--
-## Setup
-
-```shell
-```
+![App](/screenshots/example.png)
 -->
 
 ## Author
 
-[Christopher](chrisnajafi.com)
+[Christopher Najafi](https://www.chrisnajafi.com/)
