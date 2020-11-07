@@ -13,7 +13,6 @@ def get_stock_price(stock_symbol):
     end_point = ''.join(
         [BASE_URL, "tickers/", stock_symbol, "/intraday/latest"])
     api_result = requests.get(end_point, params)
-    print(api_result)
     json_result = json.loads(api_result.text)
     return {
         "last_price": json_result["last"]

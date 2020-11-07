@@ -1,25 +1,17 @@
-# WhatsApp Stock Chatbot
+# Stock Chatbot
 
-A WhatsApp chatbot that gives the stock price when given a ticker symbol
+A chatbot using the Twilio API that gives a user the latest stock price when given a ticker symbol
 
-<!--
-## Link to Deployed App
+![Stock Chatbot](./screenshots/screenshot1.png)
 
-<>
--->
+<!-- Screenshot: scale image, 25% -->
 
 ## Technology Stack
 
-- [WhatsApp API](https://www.whatsapp.com/)
 - [Twilio API](https://www.twilio.com/)
-- [Flask](https://github.com/pallets/flask)
+- [Twilio Sandbox for WhatsApp](https://www.twilio.com/docs/whatsapp/sandbox)
 - [marketstack API](https://marketstack.com/)
-
-<!--
-## Screenshots
-
-![App](/screenshots/example.png)
--->
+- [Flask](https://github.com/pallets/flask)
 
 ## Author
 
