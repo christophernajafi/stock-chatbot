@@ -10,7 +10,7 @@ A chatbot using the Twilio API that gives a user the latest stock price when giv
 
 - [Twilio API for WhatsApp](https://www.twilio.com/whatsapp)
 - [marketstack API](https://marketstack.com/)
-- [Flask](https://github.com/pallets/flask)
+- [Flask](https://flask.palletsprojects.com/)
 
 ## Author
 
