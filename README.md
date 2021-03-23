@@ -1,6 +1,6 @@
 # Stock Chatbot
 
-A chatbot using the Twilio API that gives a user the latest stock price when given a ticker symbol
+A chatbot using the Twilio API that gives a user the latest stock price when given a ticker symbol.
 
 ![Stock Chatbot](./screenshots/screenshot1.png)
 
@@ -8,8 +8,7 @@ A chatbot using the Twilio API that gives a user the latest stock price when giv
 
 ## Technology Stack
 
-- [Twilio API](https://www.twilio.com/)
-- [Twilio Sandbox for WhatsApp](https://www.twilio.com/docs/whatsapp/sandbox)
+- [Twilio API for WhatsApp](https://www.twilio.com/whatsapp)
 - [marketstack API](https://marketstack.com/)
 - [Flask](https://github.com/pallets/flask)
 
