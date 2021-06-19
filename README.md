@@ -2,11 +2,7 @@
 
 An SMS chatbot that gives a user the latest stock price when given a ticker symbol.
 
-## Screenshot
-
 ![Stock Chatbot](./screenshots/screenshot1.png)
-
-<!-- Screenshot: scale image, 25% -->
 
 ## Technology Stack
 
