@@ -1,6 +1,6 @@
 # Stock Chatbot
 
-A chatbot using the Twilio API that gives a user the latest stock price when given a ticker symbol.
+An SMS chatbot that gives a user the latest stock price when given a ticker symbol.
 
 ## Screenshot
 
