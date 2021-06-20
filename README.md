@@ -10,6 +10,6 @@ An SMS chatbot that gives a user the latest stock price when given a ticker symb
 - [Flask](https://flask.palletsprojects.com/)
 - [marketstack API](https://marketstack.com/)
 
-## Author
+## Developer
 
 [Christopher Najafi](https://www.chrisnajafi.com/)
